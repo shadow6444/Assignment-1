@@ -3,7 +3,7 @@ import { FaPlay } from "react-icons/fa";
 const Button = () => {
 
   const toggleAlert=()=>{
-    alert("Project Coming Soon");
+    alert("Project Coming Soon!");
   }
 
   return (
